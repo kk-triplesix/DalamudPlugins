@@ -2,7 +2,7 @@
   "Author": "kk-triplesix",
   "Name": "Rotation Solver Reborn (Private)",
   "InternalName": "RotationSolver",
-  "AssemblyVersion": "0.0.0.0",
+  "AssemblyVersion": "7.4.5.7",
   "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
   "Description": "Analyses combat information every frame and finds the best action.",
   "ApplicableVersion": "any",
