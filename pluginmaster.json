@@ -1,7 +1,7 @@
 [
   {
     "Author": "kk-triplesix",
-    "Name": "BossMod Reborn (Private)",
+    "Name": "BMR (KK's Special)",
     "InternalName": "BossModReborn",
     "AssemblyVersion": "7.4.5.7",
     "RepoUrl": "https://github.com/kk-triplesix/BossModRebornPrivate",
@@ -25,9 +25,9 @@
   },
   {
     "Author": "kk-triplesix",
-    "Name": "Rotation Solver Reborn (Private)",
+    "Name": "RSR (KK's Special)",
     "InternalName": "RotationSolver",
-    "AssemblyVersion": "7.4.5.7",
+    "AssemblyVersion": "7.4.5.8",
     "RepoUrl": "https://github.com/kk-triplesix/RotationSolverRebornPrivate",
     "Description": "Analyses combat information every frame and finds the best action.",
     "ApplicableVersion": "any",
