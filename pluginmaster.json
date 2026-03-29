@@ -3,7 +3,7 @@
     "Author": "kk-triplesix",
     "Name": "BMR (KK's Special)",
     "InternalName": "BossModReborn",
-    "AssemblyVersion": "7.4.5.26",
+    "AssemblyVersion": "7.4.5.27",
     "RepoUrl": "https://github.com/kk-triplesix/BossModRebornPrivate",
     "Description": "A bunch of utilities to simplify bosses.",
     "ApplicableVersion": "any",
@@ -22,6 +22,28 @@
     "DownloadLinkInstall": "https://github.com/kk-triplesix/BossModRebornPrivate/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/kk-triplesix/BossModRebornPrivate/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/kk-triplesix/BossModRebornPrivate/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "kk-triplesix",
+    "Name": "QuestieBestie",
+    "InternalName": "QuestieBestie",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/kk-triplesix/QuestieBestie",
+    "Description": "Your friendly quest companion for FFXIV.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": [
+      "quest",
+      "companion",
+      "helper"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "Punchline": "Your friendly quest companion.",
+    "DownloadLinkInstall": "https://github.com/kk-triplesix/QuestieBestie/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kk-triplesix/QuestieBestie/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/kk-triplesix/QuestieBestie/releases/latest/download/latest.zip"
   },
   {
     "Author": "kk-triplesix",
